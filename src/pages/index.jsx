@@ -17,7 +17,7 @@ import Projects from '../views/Projects'
 import About from '../views/About'
 import Contact from '../views/Contact'
 
-import avatar from '../images/avatar.jpg'
+import avatar from '../images/profile.jpg'
 import { Link } from 'gatsby';
 
 const ProjectsWrapper = styled.div`
