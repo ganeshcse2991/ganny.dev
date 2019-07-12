@@ -61,7 +61,7 @@ const Footer = styled.footer`
 const Index = () => (
   <>
     <Layout />
-    <Parallax pages={4}>
+    <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle> I'm Ganesh Ravi Shankar
         </BigTitle>
@@ -121,11 +121,11 @@ const Index = () => (
             link="https://github.com/ganeshcse2991/ganny.dev"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Technical Articles about my work and the way I see Tech.
+            Source Code for this Blog
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
-      <Contact offset={3}>
+      <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
