@@ -65,13 +65,13 @@ const Index = () => (
       <Hero offset={0}>
         <BigTitle> I'm Ganesh Ravi Shankar
         </BigTitle>
-        <Subtitle>Software Engineer -- Co-Founder @Upshotly -- Opportunist -- Tech Enthusiast -- Performance and Scalability Enthusiast -- Polyglot</Subtitle>
+        <Subtitle>Software Engineer -- Co-Founder @<a href="www.upshotly.com" target="_blank">Upshotly</a> -- Opportunist -- Tech Enthusiast -- Performance and Scalability Enthusiast -- Polyglot</Subtitle>
         <ContactText>
             Say <a href="mailto:ganeshcsc2991@gmail.com">Hi</a> or find me on other platforms:{' '}
-            <a href="https://twitter.com/ganesh_upshotly">Twitter</a> &{' '}
-            <a href="https://www.medium.com/@ganeshcsc2991">Medium</a> &{' '}
-          <a href="https://github.com/ganeshcse2991/">GitHub</a> &{' '}
-          <a href="https://www.linkedin.com/in/ganesh-ravi-shankar-08051265/">Linkedin</a>
+            <a target="_blank" href="https://twitter.com/ganesh_upshotly">Twitter</a> &{' '}
+            <a target="_blank" href="https://www.medium.com/@ganeshcsc2991">Medium</a> &{' '}
+          <a target="_blank" href="https://github.com/ganeshcse2991/">GitHub</a> &{' '}
+          <a target="_blank" href="https://www.linkedin.com/in/ganesh-ravi-shankar-08051265/">Linkedin</a>
           </ContactText>
       </Hero>
       <About offset={1}>
@@ -86,7 +86,7 @@ const Index = () => (
           I am a full-stack engineer who believes strongly in test-driven development. I love to do clean and modularized code. 
           I believe any application can be scaled if the initial schema is built perfect.
           I am a performance and scalability enthusiast. I always love to explore new technologies and various organization's architectures.
-          I am a beginner and starter in ML and DevOps.
+          I am a beginner in ML and DevOps.
           <br />
           <br/>
           My Skills - Java, NodeJS, ROR, ReactJS, Redux, GraphQL, JavaScript, AWS, GCP, Postgres, Mysql, DynamoDB, CouchDB, Memcache, Redis, RabitMQ.
@@ -119,7 +119,7 @@ const Index = () => (
           <ProjectCard
             title="Source Code of this Blog"
             link="https://github.com/ganeshcse2991/ganny.dev"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
             Source Code for this Blog
           </ProjectCard>
@@ -130,10 +130,10 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:ganeshcsc2991@gmail.com">Hi</a> or find me on other platforms:{' '}
-            <a href="https://twitter.com/ganesh_upshotly">Twitter</a> &{' '}
-            <a href="https://www.medium.com/@ganeshcsc2991">Medium</a> &{' '}
-            <a href="https://github.com/ganeshcse2991/">GitHub</a> &{' '}
-            <a href="https://www.linkedin.com/in/ganesh-ravi-shankar-08051265/">Linkedin</a>
+            <a target="_blank" href="https://twitter.com/ganesh_upshotly">Twitter</a> &{' '}
+            <a target="_blank" href="https://www.medium.com/@ganeshcsc2991">Medium</a> &{' '}
+            <a target="_blank" href="https://github.com/ganeshcse2991/">GitHub</a> &{' '}
+            <a target="_blank" href="https://www.linkedin.com/in/ganesh-ravi-shankar-08051265/">Linkedin</a>
           </ContactText>
         </Inner>
         <Footer>
