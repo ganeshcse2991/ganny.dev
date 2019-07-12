@@ -79,7 +79,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Ganeh Ravi Shankar" />
           <AboutSub>
-            Hello I'm Ganesh Ravi Shankar, a full-stack engineer by Profession. Building <Link to="https://upshotly.com">Upshotly</Link> now - a B2B SaaS Product.
+            Hello I'm Ganesh Ravi Shankar, a full-stack engineer by Profession. Building <a href="https://upshotly.com">Upshotly</a> now - a B2B SaaS Product.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
