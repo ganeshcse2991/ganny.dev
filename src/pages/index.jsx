@@ -110,20 +110,19 @@ const Index = () => (
             Building Upshotly with ReactJS, NodeJS, GraphqQL and Postgres
           </ProjectCard>
           <ProjectCard
-            title="Medium Stories"
+            title="My Blogs"
             link="https://medium.com/@ganeshcsc2991"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             Technical Articles about my work and the way I see Tech.
           </ProjectCard>
-          {/* <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-          > 
-            A fantasy image manipulation relocating the habitat of wild animals.
+          <ProjectCard
+            title="Source Code of this Blog"
+            link="https://github.com/ganeshcse2991/ganny.dev"
+            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+          >
+            Technical Articles about my work and the way I see Tech.
           </ProjectCard>
-          */}
         </ProjectsWrapper>
       </Projects>
       <Contact offset={3}>
