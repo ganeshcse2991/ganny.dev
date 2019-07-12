@@ -65,7 +65,7 @@ const Index = () => (
       <Hero offset={0}>
         <BigTitle> I'm Ganesh Ravi Shankar
         </BigTitle>
-        <Subtitle>Software Engineer -- Co-Founder @<a href="www.upshotly.com" target="_blank">Upshotly</a> -- Opportunist -- Tech Enthusiast -- Performance and Scalability Enthusiast -- Polyglot</Subtitle>
+        <Subtitle>Software Engineer -- Co-Founder @<a href="https://upshotly.com" target="_blank">Upshotly</a> -- Opportunist -- Tech Enthusiast -- Performance and Scalability Enthusiast -- Polyglot</Subtitle>
         <ContactText>
             Say <a href="mailto:ganeshcsc2991@gmail.com">Hi</a> or find me on other platforms:{' '}
             <a target="_blank" href="https://twitter.com/ganesh_upshotly">Twitter</a> &{' '}
